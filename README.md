@@ -1,2 +1,2 @@
-# skeleton-node-express
-skeleton node and express
+# skeleton-expess-api-rest
+skeleton API REST with node and express 
